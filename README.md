@@ -10,7 +10,7 @@ I am a dedicated Computer Science student with a keen interest in technology and
 
 ## Skills
 
-- **Programming Languages**: Python, C, C++, C#, Java
+- **Programming Languages**: Python, C, C++, C#, Java, HTML, CSS
 - **Libraries & Frameworks**: TensorFlow, PyTorch, OpenCV, Django, Tkinter
 - **Data Analysis Tools**: NumPy, Pandas, Power BI
 - **Mathematics**: Statistical Analysis, Linear Algebra, Calculus
