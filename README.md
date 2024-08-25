@@ -1,4 +1,4 @@
-# Hi there! I’m [Adarsha Rimal] 👋
+# Hi there! I’m Adarsha Rimal 👋
 
 🎓 **Computer Science (BSc CSIT) Student**  
 💻 **Passionate about**: Computer Vision, AI/ML, Mathematics, Data Science, and Python Programming  
