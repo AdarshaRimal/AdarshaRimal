@@ -36,10 +36,13 @@ I am a dedicated Computer Science student with a love for mathematics that has b
 ### Backend Development
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) (Learning)
 
-### Tools
+### Tools & Software
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
 
 ### Soft Skills
 - 🧠 **Problem-Solving**: Analytical thinker with a strong ability to break down complex problems and find effective solutions.
@@ -47,6 +50,11 @@ I am a dedicated Computer Science student with a love for mathematics that has b
 - 👥 **Collaboration**: Excellent teamwork and communication skills, with experience in collaborating on group projects.
 - 🎯 **Goal-Oriented**: Driven by clear objectives, with a strong focus on achieving results efficiently.
 - 🚀 **Continuous Learning**: Always eager to learn new technologies and improve existing skills to stay ahead in the fast-evolving tech world.
+- 📈 **Basic SEO**: Knowledge of basic SEO practices to improve web content visibility.
+
+### Creative Skills
+- 🎨 **Graphic Design**: Proficient with Canva and Photoshop for creating visually appealing designs.
+- 🎬 **Video Editing**: Skilled in video editing using Adobe Premiere Pro.
 
 ## Hobbies
 
