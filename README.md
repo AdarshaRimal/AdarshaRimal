@@ -52,18 +52,19 @@ I am a dedicated Computer Science student with a love for mathematics that has b
 
 ---
 
-## Hobbies
+### Streaks and Stats
 
-- 🎮 **Gaming**: Passionate gamer with a focus on content creation for YouTube.  
-- 📺 **Watching Football**: Enjoys watching football matches and following the sport closely.  
-- 🎥 **Content Creation**: Creating tech and gaming-related content on my YouTube channel.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshaRimal&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AdarshaRimal&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="165"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com?user=AdarshaRimal&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</p>
 
-## GitHub Contributions
 
-### Streaks and Stats  
-![Adarsha's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AdarshaRimal&theme=radical)  
-![Adarsha's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshaRimal&layout=compact&theme=radical)
+
+
 
 Feel free to explore my repositories and connect with me for collaboration opportunities or discussions on tech, AI, machine learning, and gaming!
