@@ -60,7 +60,7 @@ I am a dedicated Computer Science student with a love for mathematics that has b
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=AdarshaRimal&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshaRimal&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
